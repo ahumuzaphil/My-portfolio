@@ -9,16 +9,16 @@
       "image": {
         "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
         "alt": "Quick Setup",
-        "linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+        "linkTo": "https://github.com/ahumuzaphil/My-portfolio.git"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "url": "https://github.com/ahumuzaphil/Yo-shop.git"
         },
         {
           "type": "external",
-          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
+          "url": "https://yo-tech-shop.netlify.app/"
         }
       ]
     },
@@ -36,6 +36,10 @@
         {
           "type": "github",
           "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+        },
+        {
+          "type": "external",
+          "url": "https://yo-tech-shop.netlify.app/"
         }
       ]
     }
@@ -43,6 +47,6 @@
   "button": {
     "visible": true,
     "label": "Visit on Github",
-    "url": "https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal"
+    "url": "https://github.com/ahumuzaphil/My-portfolio.git"
   }
 }
