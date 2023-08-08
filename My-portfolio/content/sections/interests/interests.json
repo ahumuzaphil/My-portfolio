@@ -3,56 +3,70 @@
     {
       "label": "React js",
       "image": {
-        "src": "../../images/joystick.png",
+        "src": "../../images/react.png",
         "alt": ""
       }
     },
     {
       "label": "Next js",
       "image": {
-        "src": "../../images/notebook.png",
+        "src": "../../images/Next.png",
         "alt": ""
       }
     },
     {
       "label": "Javascript",
       "image": {
-        "src": "../../images/nail-polish.png",
+        "src": "../../images/js.png",
         "alt": ""
       }
     },
     {
       "label": "TypScript",
       "image": {
-        "src": "../../images/medium.png",
+        "src": "../../images/Typscript.png",
         "alt": ""
       }
     },
     {
       "label": "CSS",
       "image": {
-        "src": "../../images/gem-stone.png",
+        "src": "../../images/CSS.png",
         "alt": ""
       }
     },
     {
       "label": "HTML",
       "image": {
-        "src": "../../images/mobile-phone.png",
+        "src": "../../images/html.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "GIT",
+      "image": {
+        "src": "../../images/GIT.png",
         "alt": ""
       }
     },
     {
       "label": "Bootsrap",
       "image": {
-        "src": "../../images/gatsby.png",
+        "src": "../../images/Bootstrap.png",
         "alt": ""
       }
     },
     {
       "label": "Ant design",
       "image": {
-        "src": "../../images/high-voltage.png",
+        "src": "../../images/antd.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Reactsuite",
+      "image": {
+        "src": "../../images/Rsuite.png",
         "alt": ""
       }
     }
