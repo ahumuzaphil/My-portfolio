@@ -2,10 +2,10 @@
   "projects": [
     {
       "visible": true,
-      "category": "🕹️ EASY AND QUICK SETUP",
-      "title": "Add content and deploy!",
-      "description": "Get up and running within minutes. Just install the starter, add your content, deploy it, and there you go! This starter works seamlessly with hosts like Netlify. Photo by Clément H on Unsplash.",
-      "tags": ["Content Integration", "Ready-2-Deploy"],
+      "category": "REACT,Context API's $ ANTI DESIGN",
+      "title": "E-COMMERCE WEBSITE",
+      "description": "This is an e-commerce react project simply shows a powerful solution using the context API's that shows to add an item to cart. It also has complex and famous CSS framework (anti design).",
+      "tags": ["Visit the site"],
       "image": {
         "src": "../../images/yo-shop.jpg",
         "alt": "Quick Setup",
@@ -24,10 +24,10 @@
     },
     {
       "visible": true,
-      "category": "🧰 EXTENDABLE LAYOUT",
-      "title": "Add more sections!",
-      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
-      "tags": ["Custom Sections", "Easy-2-Use"],
+      "category": "REACT $ ANTI DESIGN",
+      "title": "Landing page",
+      "description": "A landing page with a great functionality in the navigation bar that express complex skill of obile responsiveness and page lay out.",
+      "tags": ["Visit the site"],
       "image": {
         "src": "../../images/kakande-ministries.jpg",
         "alt": "Extendable Layout"
@@ -45,10 +45,10 @@
     },
     {
       "visible": true,
-      "category": "🧰 EXTENDABLE LAYOUT",
-      "title": "Add more sections!",
-      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
-      "tags": ["Custom Sections", "Easy-2-Use"],
+      "category": "JAVASCRIPT",
+      "title": "Registration form with Todo features",
+      "description": "A simple Vanilla javascript website with powerful login and registration functionality, with additon of Todo-list functions that shows how data is sent and stored in backend programme.",
+      "tags": ["Visit the site"],
       "image": {
         "src": "../../images/form.jpg",
         "alt": "Extendable Layout"
