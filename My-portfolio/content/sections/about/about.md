@@ -3,12 +3,8 @@ imageSrc: "../../images/PHIL.JPG"
 imageAlt: "About Gatsby Theme Portfolio Minimal"
 ---
 
-Portfolio Minimal is a Gatsby Theme that creates outstanding one-pages portfolio within minutes!
+Hi, my name is Ahumuza Mustahfu, I am an analytical and reliable Frontend developer with 2years+ experience of working with backend software engineers. Exhaustive knowledge of development, production, testing, and maintenance of frontend software systems to build frontend systems, provide systems support, identify technical issues, and collaborate with multi-function teams. Skilled in adapting to new situations and challenges to best enhance the organizational brand.Check out some of the things I built in my projects section
 
-It has predefined sections for your bio, skills, projects, and contact details. If you are a writer on Medium, you can integrate your latest articles in a distinct section as well. While building the theme, I tried to keep the setup as simple as possible while keeping everything configurable if you like to.
+I am open and prepared to take on job opportunities where I can contribute, improve, master, and add value. If you have a review of a fine opening that corresponds to my skills and experience don't hold back to contact me.
 
-Using theme composition, you can easily customize the CSS theme to your own preferences - e.g. change colors, fonts, etc.
-
-Last but not least, it has some cool features you can opt-in to: Dark Mode, Splash Screen, Cookie Banner, and more to find out :)
-
-Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Charles Deluvio</u></a> on Unsplash
+Photo by <a href="#"><u>Ahumuza Mustahfu</u></a> on Unsplash
